@@ -18,7 +18,7 @@ table(tweets$Negative)
 
 # Install new packages
 
-install.packages("tm")
+install.packages("tm") # text mining package
 library(tm)
 install.packages("SnowballC")
 library(SnowballC)
